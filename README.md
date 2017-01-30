@@ -1,4 +1,4 @@
-# wiety.github.io
+# nathanielozment.github.io
 Repository
 
 
