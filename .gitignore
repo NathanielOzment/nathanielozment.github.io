@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+.theos/*
+*.dylib
+**/.theos/*
+*/.theos/*
+_/*
+*/obj/*
+**/obj/*
+debug
+remove.*
+update_*.*
+push.sh
