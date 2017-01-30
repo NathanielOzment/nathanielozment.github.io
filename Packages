@@ -1,1 +1,13 @@
-
+Package: com.vsz.redeb_1.0.3_iphoneos-arm
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: nathanielozment <email@gmail.com>
+Filename: Redeb.deb
+Size: 3676
+MD5sum: DDF28AF381B342CC19D64CEFFF87738B
+SHA1: 0FA1BBE66FF5B594F5CF538D8A4CB667D3CC0C94
+SHA256: 527E97506FC816310A9FC29121E534082C9FE3674E6355002670AFDDB9484A5E
+Section: Tweaks
+Description: a test tweak for my repo
+Author: nathanielozment <email@gmail.com>
+Name: redeb
