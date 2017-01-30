@@ -1,0 +1,9 @@
+Origin: Nathaniel's Repo
+Label: Nathaniel's Repo
+Suite: stable
+Version: 1.0
+Codename: Desiec
+Architectures: iphoneos-arm
+Components: main
+Description: Nathaniel's Repo
+MD5Sum:
